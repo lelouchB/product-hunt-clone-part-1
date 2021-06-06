@@ -1,3 +1,8 @@
+# Product Hunt Clone - Part 1
+
+![Screenshot 2021-06-06 at 16-44-12 Product Hunt Clone](https://user-images.githubusercontent.com/45850882/120922387-7b661f00-c6e6-11eb-8723-527d6ce17bcb.png)
+
+###  Part 1 of the Product Hunt Clone tutorial. Refer to Product Hunt Clone for complete app.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
