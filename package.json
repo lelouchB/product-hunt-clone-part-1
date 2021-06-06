@@ -1,15 +1,27 @@
 {
-  "name": "product-hunt-clone",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "10.2.3",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
-  }
+    "name": "product-hunt-clone-part-1",
+    "version": "0.1.0",
+    "author": "Ashutosh K Singh",
+    "license": "MIT",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "@auth0/nextjs-auth0": "^1.4.0",
+        "@tailwindcss/forms": "^0.3.3",
+        "airtable": "^0.11.1",
+        "cloudinary": "^1.26.0",
+        "cloudinary-react": "^1.7.0",
+        "next": "10.2.3",
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "react-dropzone": "^11.3.2"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.2.6",
+        "postcss": "^8.3.0",
+        "tailwindcss": "^2.1.4"
+    }
 }
